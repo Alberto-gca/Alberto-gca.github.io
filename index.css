@@ -1,0 +1,12 @@
+body {
+    background-image: url('path/to/your/image.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 50vh;
+    transform: translateY(-50%);
+}
